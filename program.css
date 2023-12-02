@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 1em;
+    font-size: 2em;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    padding: 0.5em;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  td {
+    vertical-align: top;
+  }
+  
+  .book-category {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+  
+  .book-title {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 0.3em;
+  }
+  
+  .book-author {
+    font-style: italic;
+    margin-bottom: 0.3em;
+  }
+  
+  .book-year {
+    font-size: 0.9em;
+    margin-bottom: 0.3em;
+  }
+  
+  .book-price {
+    font-weight: bold;
+    font-size: 1.1em;
+  }
+  
+  .book-description {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+  }
+
+
+  .cta-button {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #0077cc;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.cta-button:hover {
+  background-color: #005fa3;
+}
+
+.center{
+  text-align: center;
+}
+.center a{
+  text-decoration: none;
+}

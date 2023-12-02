@@ -1,0 +1,209 @@
+
+
+/* Style the navigation menu */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #E3F2FD;
+  padding: 10px 20px;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-right: 20px;
+}
+
+/* Style the main content */
+main {
+  margin: 20px;
+}
+
+/* Style the introduction section */
+
+/* Style the footer */
+footer {
+  background-color: #303F9F;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+table, table td{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+table td{
+  padding: 10px;
+}
+
+.footer-wrapper a{
+  color: chocolate
+}
+
+/* Global styles */
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #f4f4f4;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header styles */
+header {
+  color: #303F9F;
+  /* text-align: center; */
+  background-color: #ffffff;
+  border-bottom: 1px solid #d9d9d9;
+  padding: 20px 0;
+}
+
+.header-wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin-left: 20px;
+}
+
+nav a {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Hero section styles */
+.hero-section {
+  background-image: url('https://images.adsttc.com/media/images/573c/90c0/e58e/ce1e/1600/0007/slideshow/Here_is_a_theater_to_unfold_an_outstanding_drama__and_the_characters_are_book_lovers_sitting_on_the_soft_couch_or_standing_beside_the_bookshelves._0004.jpg?1463587001');
+  opacity: 0.6;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-content {
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero-content h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.cta-button {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #0077cc;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.cta-button:hover {
+  background-color: #005fa3;
+}
+
+/* About section styles */
+.about-section {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.about-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+/* Genres section styles */
+.genres-section {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.genres-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.genres-section ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.genres-section li {
+  margin: 0 20px;
+}
+
+.genres-section a {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0077cc;
+}
+
+.genres-section a:hover {
+  text-decoration: underline;
+}
+
+/* Hours section styles */
+.hours-section {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.hours-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hours-section table {
+  margin: 0 auto;
+}

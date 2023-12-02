@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="program.xsl" ?>
+<!DOCTYPE bookstore SYSTEM "D:\clints\book_shop\public\bookstore.dtd">
+<bookstore>
+  <book category="CHILDREN">
+    <title lang="en">The Cat in the Hat</title>
+    <author>Dr. Seuss</author>
+    <year>1957</year>
+    <price>800.99</price>
+  </book>
+  <book category="CHILDREN">
+    <title lang="en">Charlie and the Chocolate Factory</title>
+    <author>Roald Dahl</author>
+    <year>1964</year>
+    <price>750.50</price>
+  </book>
+  <book category="CHILDREN">
+    <title lang="en">Where the Wild Things Are</title>
+    <author>Maurice Sendak</author>
+    <year>1963</year>
+    <price>720.75</price>
+  </book>
+  <book category="CHILDREN">
+    <title lang="en">The Giving Tree</title>
+    <author>Shel Silverstein</author>
+    <year>1964</year>
+    <price>900.25</price>
+  </book>
+  <book category="CHILDREN">
+    <title lang="en">Goodnight Moon</title>
+    <author>Margaret Wise Brown</author>
+    <year>1947</year>
+    <price>850.50</price>
+  </book>
+  <book category="FICTION">
+    <title lang="en">To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <year>1960</year>
+    <price>1000.00</price>
+  </book>
+  <book category="FICTION">
+    <title lang="en">1984</title>
+    <author>George Orwell</author>
+    <year>1949</year>
+    <price>850.00</price>
+  </book>
+  <book category="FICTION">
+    <title lang="en">The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <year>1925</year>
+    <price>900.00</price>
+  </book>
+  <book category="FICTION">
+    <title lang="en">Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+    <price>950.00</price>
+  </book>
+  <book category="FICTION">
+    <title lang="en">The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+    <price>800.00</price>
+  </book>
+  <book category="NON-FICTION">
+    <title lang="en">Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <year>2011</year>
+    <price>1200.00</price>
+  </book>
+  <book category="NON-FICTION">
+    <title lang="en">The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <year>2010</year>
+    <price>1100.00</price>
+  </book>
+</bookstore>
